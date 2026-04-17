@@ -14,7 +14,7 @@ package io.github.rosestack.spring.boot.security;
  * </ul>
  * </p>
  *
- * @author chensoul
+ * @author zhijunio
  * @since 1.0.0
  */
 public enum AuditEventType {
